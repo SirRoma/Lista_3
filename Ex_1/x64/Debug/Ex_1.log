@@ -1,0 +1,16 @@
+﻿  Origem.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinição de macro
+C:\Users\Roma\Documents\libraries\glad\glad.h(884): message : consulte a definição anterior de 'APIENTRY'
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(161,8): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(161,8): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(161,18): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(161,18): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(162,7): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(162,7): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(162,18): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(162,18): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(163,5): warning C4838: a conversão de 'int' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(163,5): warning C4244: 'inicializando': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(163,15): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_1\Origem.cpp(163,15): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+  Ex_1.vcxproj -> C:\Users\Roma\source\repos\Lista_3\x64\Debug\Ex_1.exe

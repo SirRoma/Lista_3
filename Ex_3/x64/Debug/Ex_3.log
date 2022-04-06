@@ -1,0 +1,18 @@
+﻿  Origem.cpp
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(73,21): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(74,31): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(163,8): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(166,8): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(166,8): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(166,18): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(166,18): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(167,7): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(167,7): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(167,18): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(167,18): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(168,5): warning C4838: a conversão de 'int' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(168,5): warning C4244: 'inicializando': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(168,15): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\Roma\source\repos\Lista_3\Ex_3\Origem.cpp(168,15): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Ex_3.vcxproj -> C:\Users\Roma\source\repos\Lista_3\x64\Debug\Ex_3.exe
